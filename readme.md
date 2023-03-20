@@ -9,7 +9,7 @@ To install the tool, clone the repository and build the executable:
 ```sh
 git clone https://github.com/christian-gama/renamer.git
 cd renamer
-go build -o renamer cmd/main.go
+make build
 ```
 
 Usage
